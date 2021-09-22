@@ -18,6 +18,6 @@ The goal is to add the CSS to this page so that the final result looks like targ
 
 ## Instructions
 
-- Easiest is to just fork this repo And follow instructions on [github pages](https://pages.github.com/) to publish it as a github page, so you can easily share the result/code with me. 
+- Easiest is to just make a duplicate of index.html, create your own github repo, and follow instructions on [github pages](https://pages.github.com/) to publish it as a github page, so you can easily share the result/code with me. 
 - Or you can just download the file, and send back the index.html file with css in it. 
 
