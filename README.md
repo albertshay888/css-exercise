@@ -5,8 +5,10 @@
 `index.html` is basic HTML page with no css style added. 
 The goal is to add the CSS to this page so that the final result looks like target images in this repo
 
+when on pc (wide): 
 - target-image.png
-- target-image2.png
+- target-image2.png 
+When on mobile phone (narrow):  
 - target-responsive.png
 - target-responsive2.png
 
