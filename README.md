@@ -6,10 +6,12 @@
 The goal is to add the CSS to this page so that the final result looks like target images in this repo
 
 when browser is wide: 
+- target-screencapture-wide.png
 - target-image.png
 - target-image2.png 
 
-When browser is narrow:  
+When browser is narrow:
+- target-screencapture-narrow.png
 - target-responsive.png
 - target-responsive2.png
 
